@@ -1,8 +1,8 @@
 # hackpack-bike
-Code for the bike version of the Twilio Hackpack
+Code for the tmbg version of the Twilio Hackpack
 
 Circuit:
-![Hackpack Circuit](bike-circuit.jpg)
+![Hackpack Circuit](tmbg.png)
 
 To learn more about setting up your hackpack visit: [signal.twilio.com/hackpack](http://signal.twilio.com/hackpack)
 
