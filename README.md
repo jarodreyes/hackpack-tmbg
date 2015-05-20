@@ -1,7 +1,6 @@
-# hackpack-bike
+# They Might Be Giants - Hackpack
 Code for the tmbg version of the Twilio Hackpack
 
-Circuit:
 ![Hackpack Circuit](tmbg.png)
 
 To learn more about setting up your hackpack visit: [signal.twilio.com/hackpack](http://signal.twilio.com/hackpack)
